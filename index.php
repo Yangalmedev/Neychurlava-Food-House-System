@@ -1,4 +1,4 @@
 <?php
-header("Location: /neychurlava/auth/login.php");
+header("Location: /neychurlava/customer/customer.php");
 exit();
 ?>
